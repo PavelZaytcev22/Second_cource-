@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|10LabLibrary.csproj|c:\\users\\pvl2z\\desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u043A\u043E\u043C\u043F)\\\u043B\u0430\u0431\u044B \u043E\u043E\u043F\\10lablibrary\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|10LabLibrary.csproj|solutionrelative:challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|10LabLibrary.csproj|C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\supertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|10LabLibrary.csproj|solutionrelative:supertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|10LabLibrary.csproj|C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|10LabLibrary.csproj|solutionrelative:finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|10LabLibrary.csproj|C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|10LabLibrary.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|10LabLibrary.csproj|C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|10LabLibrary.csproj|solutionrelative:exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|10LabLibrary.csproj|C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|10LabLibrary.csproj|solutionrelative:functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuperTest.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\SuperTest.cs",
+              "RelativeDocumentMoniker": "SuperTest.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\SuperTest.cs",
+              "RelativeToolTip": "SuperTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-20T13:23:47.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\FinalExam.cs",
+              "RelativeDocumentMoniker": "FinalExam.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\FinalExam.cs",
+              "RelativeToolTip": "FinalExam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-20T13:22:01.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Test.cs",
+              "RelativeDocumentMoniker": "Test.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Test.cs",
+              "RelativeToolTip": "Test.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAywNgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-20T13:20:06.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Exam.cs",
+              "RelativeDocumentMoniker": "Exam.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Exam.cs",
+              "RelativeToolTip": "Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAN0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-20T13:18:02.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Functions.cs",
+              "RelativeDocumentMoniker": "Functions.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Functions.cs",
+              "RelativeToolTip": "Functions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-20T13:17:38.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Challenge.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Challenge.cs",
+              "RelativeDocumentMoniker": "Challenge.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Challenge.cs",
+              "RelativeToolTip": "Challenge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-20T13:17:39.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+C:\Users\Пользователь\source\repos\BestLibrary\bin\Debug\BestLibrary.dll
+C:\Users\Пользователь\source\repos\BestLibrary\bin\Debug\BestLibrary.pdb
+C:\Users\Пользователь\source\repos\BestLibrary\obj\Debug\BestLibrary.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\BestLibrary\obj\Debug\BestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\BestLibrary\obj\Debug\BestLibrary.dll
+C:\Users\Пользователь\source\repos\BestLibrary\obj\Debug\BestLibrary.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\BestLibrary\bin\Debug\BestLibrary.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\BestLibrary\bin\Debug\BestLibrary.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\BestLibrary\obj\Debug\BestLibrary.csproj.AssemblyReference.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\BestLibrary\obj\Debug\BestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\BestLibrary\obj\Debug\BestLibrary.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\BestLibrary\obj\Debug\BestLibrary.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\BestLibrary\bin\Debug\BestLibrary.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\BestLibrary\bin\Debug\BestLibrary.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\BestLibrary\obj\Debug\BestLibrary.csproj.AssemblyReference.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\BestLibrary\obj\Debug\BestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\BestLibrary\obj\Debug\BestLibrary.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\BestLibrary\obj\Debug\BestLibrary.pdb

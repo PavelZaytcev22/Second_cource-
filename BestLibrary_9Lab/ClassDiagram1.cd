@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BestLibrary.Diapazon">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAgYAQBCAJgAAAAAAAAAAYABgAAAEAAA=</HashCode>
+      <FileName>Diapazon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BestLibrary.DiapazonArray">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAIAAAAAAAAAAADAAAAAAAAAAAAAgAAQAAAAAEAAA=</HashCode>
+      <FileName>DiapazonArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BestLibrary.Functions">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Functions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

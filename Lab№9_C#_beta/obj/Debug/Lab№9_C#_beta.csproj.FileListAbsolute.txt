@@ -1,0 +1,60 @@
+C:\Users\Пользователь\source\repos\Lab№9_C#_beta\bin\Debug\Lab№9_C#_beta.exe.config
+C:\Users\Пользователь\source\repos\Lab№9_C#_beta\bin\Debug\Lab№9_C#_beta.exe
+C:\Users\Пользователь\source\repos\Lab№9_C#_beta\bin\Debug\Lab№9_C#_beta.pdb
+C:\Users\Пользователь\source\repos\Lab№9_C#_beta\bin\Debug\BestLibrary.dll
+C:\Users\Пользователь\source\repos\Lab№9_C#_beta\bin\Debug\BestLibrary.pdb
+C:\Users\Пользователь\source\repos\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.exe
+C:\Users\Пользователь\source\repos\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.csproj.AssemblyReference.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.csproj.SuggestedBindingRedirects.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.csproj.CoreCompileInputs.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.exe
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\Lab№9_C#_beta.exe.config
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\Lab№9_C#_beta.exe
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\Lab№9_C#_beta.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\BestLibrary.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\DiapazonTest.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\BestLibrary.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\DiapazonTest.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.csproj.CopyComplete
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№9_C#_beta\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\Lab№9_C#_beta.exe.config
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\Lab№9_C#_beta.exe
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\Lab№9_C#_beta.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\BestLibrary.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\BestLibrary.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.csproj.AssemblyReference.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.csproj.CoreCompileInputs.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.exe
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\obj\Debug\Lab№9_C#_beta.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\DiapazonTest.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\DiapazonTest.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab№9_C#_beta\obj\Debug\Lab№9_C#.79F48F94.Up2Date

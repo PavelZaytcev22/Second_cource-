@@ -1,0 +1,42 @@
+C:\Users\Пользователь\source\repos\Lab10_C#\bin\Debug\Lab10_C#.exe.config
+C:\Users\Пользователь\source\repos\Lab10_C#\bin\Debug\Lab10_C#.exe
+C:\Users\Пользователь\source\repos\Lab10_C#\bin\Debug\Lab10_C#.pdb
+C:\Users\Пользователь\source\repos\Lab10_C#\bin\Debug\10LabLibrary.dll
+C:\Users\Пользователь\source\repos\Lab10_C#\bin\Debug\10LabLibrary.pdb
+C:\Users\Пользователь\source\repos\Lab10_C#\obj\Debug\Lab10_C#.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Lab10_C#\obj\Debug\Lab10_C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Lab10_C#\obj\Debug\Lab10_C#.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Lab10_C#\obj\Debug\Lab10_C#.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\Lab10_C#\obj\Debug\Lab10_C#.exe
+C:\Users\Пользователь\source\repos\Lab10_C#\obj\Debug\Lab10_C#.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\Lab10_C#.exe.config
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\Lab10_C#.exe
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\Lab10_C#.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\10LabLibrary.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\10LabLibrary.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\obj\Debug\Lab10_C#.csproj.AssemblyReference.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\obj\Debug\Lab10_C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\obj\Debug\Lab10_C#.csproj.CoreCompileInputs.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\obj\Debug\Lab10_C#.exe
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\obj\Debug\Lab10_C#.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Text.Json.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Memory.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.ValueTuple.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Buffers.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\10LabLibrary.dll.config
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Text.Json.xml
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Memory.xml
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.ValueTuple.xml
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Buffers.xml
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\obj\Debug\Lab10_C#.exe.config
+C:\Users\pvl2z\Desktop\информатика 2 курс(КОМП)\Лабы ооп\Lab10_C#\obj\Debug\Lab10_C#.csproj.Up2Date
