@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pvl2z\\source\\repos\\Lab13_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14384E63-21EB-44EE-825E-8FF5B9606455}|Lab13_C#\\Lab13_C#.csproj|c:\\users\\pvl2z\\source\\repos\\lab13_c#\\lab13_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14384E63-21EB-44EE-825E-8FF5B9606455}|Lab13_C#\\Lab13_C#.csproj|solutionrelative:lab13_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B312D6F-5D99-4402-94FE-B6FB6B9485D6}|13LabLibrary\\13LabLibrary.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab13_C#\\13lablibrary\\mynewhashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B312D6F-5D99-4402-94FE-B6FB6B9485D6}|13LabLibrary\\13LabLibrary.csproj|solutionrelative:13lablibrary\\mynewhashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B93D0E7-FD25-4D84-83B2-F87DF2273882}|UnitTestLab13\\UnitTestLab13.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab13_C#\\unittestlab13\\newhashtabletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B93D0E7-FD25-4D84-83B2-F87DF2273882}|UnitTestLab13\\UnitTestLab13.csproj|solutionrelative:unittestlab13\\newhashtabletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B312D6F-5D99-4402-94FE-B6FB6B9485D6}|13LabLibrary\\13LabLibrary.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab13_C#\\13lablibrary\\myhashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B312D6F-5D99-4402-94FE-B6FB6B9485D6}|13LabLibrary\\13LabLibrary.csproj|solutionrelative:13lablibrary\\myhashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C179EAF5-9490-4FEE-86EA-498BB8B2D204}|..\\Lab12_C#\\12LabLibrary\\12LabLibrary.csproj|C:\\Users\\pvl2z\\source\\repos\\lab12_c#\\12lablibrary\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewHashTableTest.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab13_C#\\UnitTestLab13\\NewHashTableTest.cs",
+              "RelativeDocumentMoniker": "UnitTestLab13\\NewHashTableTest.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab13_C#\\UnitTestLab13\\NewHashTableTest.cs",
+              "RelativeToolTip": "UnitTestLab13\\NewHashTableTest.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwE0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T18:39:36.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyNewHashTable.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab13_C#\\13LabLibrary\\MyNewHashTable.cs",
+              "RelativeDocumentMoniker": "13LabLibrary\\MyNewHashTable.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab13_C#\\13LabLibrary\\MyNewHashTable.cs",
+              "RelativeToolTip": "13LabLibrary\\MyNewHashTable.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAwwIUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T13:24:51.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyHashTable.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab13_C#\\13LabLibrary\\MyHashTable.cs",
+              "RelativeDocumentMoniker": "13LabLibrary\\MyHashTable.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab13_C#\\13LabLibrary\\MyHashTable.cs",
+              "RelativeToolTip": "13LabLibrary\\MyHashTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T12:14:23.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab13_C#\\Lab13_C#\\Program.cs",
+              "RelativeDocumentMoniker": "Lab13_C#\\Program.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab13_C#\\Lab13_C#\\Program.cs",
+              "RelativeToolTip": "Lab13_C#\\Program.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAUwFgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T12:07:12.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HashTable.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabLibrary\\HashTable.cs",
+              "RelativeDocumentMoniker": "..\\Lab12_C#\\12LabLibrary\\HashTable.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabLibrary\\HashTable.cs",
+              "RelativeToolTip": "..\\Lab12_C#\\12LabLibrary\\HashTable.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAiwN0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:54:37.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

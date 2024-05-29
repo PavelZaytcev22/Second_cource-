@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\lab_\u211616_sharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|solutionrelative:lab_\u211616_sharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\lab_\u211616_sharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|solutionrelative:lab_\u211616_sharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\lab_\u211616_sharp\\fileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|solutionrelative:lab_\u211616_sharp\\fileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\lab_\u211616_sharp\\fileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|solutionrelative:lab_\u211616_sharp\\fileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\lab_\u211616_sharp\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|solutionrelative:lab_\u211616_sharp\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|..\\..\\..\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\10LabLibrary.csproj|c:\\users\\pvl2z\\desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u043A\u043E\u043C\u043F)\\\u043B\u0430\u0431\u044B \u043E\u043E\u043F\\10lablibrary\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|c:\\users\\pvl2z\\source\\repos\\lab_\u211616_sharp\\lab_\u211616_sharp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|solutionrelative:lab_\u211616_sharp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\lab_\u211616_sharp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|solutionrelative:lab_\u211616_sharp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\lab_\u211616_sharp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|solutionrelative:lab_\u211616_sharp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Files\\TXT.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab_\u211616_sharp\\Files\\TXT.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Files\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab_\u211616_sharp\\Files\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Files\\xml.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab_\u211616_sharp\\Files\\xml.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\lab_\u211616_sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|solutionrelative:lab_\u211616_sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\lab_\u211616_sharp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF156A59-B8AA-42B4-BCB0-9AE455D3CB27}|Lab_\u211616_sharp\\Lab_\u211616_sharp.csproj|solutionrelative:lab_\u211616_sharp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TXT.txt",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Files\\TXT.txt",
+              "RelativeDocumentMoniker": "Lab_\u211616_sharp\\Files\\TXT.txt",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Files\\TXT.txt",
+              "RelativeToolTip": "Lab_\u211616_sharp\\Files\\TXT.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-03T13:05:11.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\AddForm.cs",
+              "RelativeDocumentMoniker": "Lab_\u211616_sharp\\AddForm.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\AddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab_\u211616_sharp\\AddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:43:06.381Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "xml.xml",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Files\\xml.xml",
+              "RelativeDocumentMoniker": "Lab_\u211616_sharp\\Files\\xml.xml",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Files\\xml.xml",
+              "RelativeToolTip": "Lab_\u211616_sharp\\Files\\xml.xml",
+              "ViewState": "AQIAAAgKAAAAAAAAAAAAAAoKAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-03T12:31:27.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "json.json",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Files\\json.json",
+              "RelativeDocumentMoniker": "Lab_\u211616_sharp\\Files\\json.json",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Files\\json.json",
+              "RelativeToolTip": "Lab_\u211616_sharp\\Files\\json.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOgDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T12:26:58.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Challenge.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Challenge.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Challenge.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Challenge.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Challenge.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAxwBwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:24:26.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Form3.cs",
+              "RelativeDocumentMoniker": "Lab_\u211616_sharp\\Form3.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Form3.cs",
+              "RelativeToolTip": "Lab_\u211616_sharp\\Form3.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAhwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:13:22.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Form3.cs",
+              "RelativeDocumentMoniker": "Lab_\u211616_sharp\\Form3.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab_\u211616_sharp\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:13:21.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Form2.cs",
+              "RelativeDocumentMoniker": "Lab_\u211616_sharp\\Form2.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Form2.cs",
+              "RelativeToolTip": "Lab_\u211616_sharp\\Form2.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:13:19.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Form2.cs",
+              "RelativeDocumentMoniker": "Lab_\u211616_sharp\\Form2.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab_\u211616_sharp\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:13:17.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileForm.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\FileForm.cs",
+              "RelativeDocumentMoniker": "Lab_\u211616_sharp\\FileForm.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\FileForm.cs",
+              "RelativeToolTip": "Lab_\u211616_sharp\\FileForm.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAawH8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:37:13.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\FileForm.cs",
+              "RelativeDocumentMoniker": "Lab_\u211616_sharp\\FileForm.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\FileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab_\u211616_sharp\\FileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:35:28.569Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_\u211616_sharp\\Program.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Program.cs",
+              "RelativeToolTip": "Lab_\u211616_sharp\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAawA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:07:40.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_\u211616_sharp\\Form1.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Form1.cs",
+              "RelativeToolTip": "Lab_\u211616_sharp\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T06:39:06.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_\u211616_sharp\\Form1.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab_\u211616_sharp\\Lab_\u211616_sharp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab_\u211616_sharp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T06:22:19.487Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

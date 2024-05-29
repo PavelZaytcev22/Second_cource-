@@ -1,0 +1,13 @@
+C:\Users\pvl2z\source\repos\Lab№11_С#\Lab№11_С#\bin\Debug\Lab№11_С#.exe.config
+C:\Users\pvl2z\source\repos\Lab№11_С#\Lab№11_С#\bin\Debug\Lab№11_С#.exe
+C:\Users\pvl2z\source\repos\Lab№11_С#\Lab№11_С#\bin\Debug\Lab№11_С#.pdb
+C:\Users\pvl2z\source\repos\Lab№11_С#\Lab№11_С#\bin\Debug\10LabLibrary.dll
+C:\Users\pvl2z\source\repos\Lab№11_С#\Lab№11_С#\bin\Debug\10LabLibrary.pdb
+C:\Users\pvl2z\source\repos\Lab№11_С#\Lab№11_С#\obj\Debug\Lab№11_С#.csproj.AssemblyReference.cache
+C:\Users\pvl2z\source\repos\Lab№11_С#\Lab№11_С#\obj\Debug\Lab№11_С#.csproj.SuggestedBindingRedirects.cache
+C:\Users\pvl2z\source\repos\Lab№11_С#\Lab№11_С#\obj\Debug\Lab№11_С#.csproj.CoreCompileInputs.cache
+C:\Users\pvl2z\source\repos\Lab№11_С#\Lab№11_С#\obj\Debug\Lab№11_С#.csproj.CopyComplete
+C:\Users\pvl2z\source\repos\Lab№11_С#\Lab№11_С#\obj\Debug\Lab№11_С#.exe
+C:\Users\pvl2z\source\repos\Lab№11_С#\Lab№11_С#\obj\Debug\Lab№11_С#.pdb
+C:\Users\pvl2z\source\repos\Lab№11_С#\Lab№11_С#\bin\Debug\11LabLibrary.dll
+C:\Users\pvl2z\source\repos\Lab№11_С#\Lab№11_С#\bin\Debug\11LabLibrary.pdb

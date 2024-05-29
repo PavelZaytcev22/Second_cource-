@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C179EAF5-9490-4FEE-86EA-498BB8B2D204}|12LabLibrary\\12LabLibrary.csproj|c:\\users\\pvl2z\\source\\repos\\lab12_c#\\12lablibrary\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C179EAF5-9490-4FEE-86EA-498BB8B2D204}|12LabLibrary\\12LabLibrary.csproj|solutionrelative:12lablibrary\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C179EAF5-9490-4FEE-86EA-498BB8B2D204}|12LabLibrary\\12LabLibrary.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12lablibrary\\myenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C179EAF5-9490-4FEE-86EA-498BB8B2D204}|12LabLibrary\\12LabLibrary.csproj|solutionrelative:12lablibrary\\myenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C179EAF5-9490-4FEE-86EA-498BB8B2D204}|12LabLibrary\\12LabLibrary.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12lablibrary\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C179EAF5-9490-4FEE-86EA-498BB8B2D204}|12LabLibrary\\12LabLibrary.csproj|solutionrelative:12lablibrary\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C179EAF5-9490-4FEE-86EA-498BB8B2D204}|12LabLibrary\\12LabLibrary.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12lablibrary\\listpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C179EAF5-9490-4FEE-86EA-498BB8B2D204}|12LabLibrary\\12LabLibrary.csproj|solutionrelative:12lablibrary\\listpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3CE78A-7427-43BD-8938-78B098E3B372}|12LabUnitTests\\12LabUnitTests.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12labunittests\\pointtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3CE78A-7427-43BD-8938-78B098E3B372}|12LabUnitTests\\12LabUnitTests.csproj|solutionrelative:12labunittests\\pointtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3CE78A-7427-43BD-8938-78B098E3B372}|12LabUnitTests\\12LabUnitTests.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12labunittests\\listtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3CE78A-7427-43BD-8938-78B098E3B372}|12LabUnitTests\\12LabUnitTests.csproj|solutionrelative:12labunittests\\listtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1444C3A-70F4-4BBE-BD36-61A5208A753A}|Lab12_C#\\Lab12_C#.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\lab12_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1444C3A-70F4-4BBE-BD36-61A5208A753A}|Lab12_C#\\Lab12_C#.csproj|solutionrelative:lab12_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD9C689-052F-454F-8FCF-28A9664A28F1}|..\\..\\..\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\10LabLibrary.csproj|c:\\users\\pvl2z\\desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u043A\u043E\u043C\u043F)\\\u043B\u0430\u0431\u044B \u043E\u043E\u043F\\10lablibrary\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3CE78A-7427-43BD-8938-78B098E3B372}|12LabUnitTests\\12LabUnitTests.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12labunittests\\testhashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3CE78A-7427-43BD-8938-78B098E3B372}|12LabUnitTests\\12LabUnitTests.csproj|solutionrelative:12labunittests\\testhashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C179EAF5-9490-4FEE-86EA-498BB8B2D204}|12LabLibrary\\12LabLibrary.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12lablibrary\\hashenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C179EAF5-9490-4FEE-86EA-498BB8B2D204}|12LabLibrary\\12LabLibrary.csproj|solutionrelative:12lablibrary\\hashenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashTable.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabLibrary\\HashTable.cs",
+              "RelativeDocumentMoniker": "12LabLibrary\\HashTable.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabLibrary\\HashTable.cs",
+              "RelativeToolTip": "12LabLibrary\\HashTable.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAwwNAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T09:32:17.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PointTest.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabUnitTests\\PointTest.cs",
+              "RelativeDocumentMoniker": "12LabUnitTests\\PointTest.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabUnitTests\\PointTest.cs",
+              "RelativeToolTip": "12LabUnitTests\\PointTest.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:41:14.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Test.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Test.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Test.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430 2 \u043A\u0443\u0440\u0441(\u041A\u041E\u041C\u041F)\\\u041B\u0430\u0431\u044B \u043E\u043E\u043F\\10LabLibrary\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T12:37:46.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestHashTable.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabUnitTests\\TestHashTable.cs",
+              "RelativeDocumentMoniker": "12LabUnitTests\\TestHashTable.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabUnitTests\\TestHashTable.cs",
+              "RelativeToolTip": "12LabUnitTests\\TestHashTable.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T12:36:09.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListPoints.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabLibrary\\ListPoints.cs",
+              "RelativeDocumentMoniker": "12LabLibrary\\ListPoints.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabLibrary\\ListPoints.cs",
+              "RelativeToolTip": "12LabLibrary\\ListPoints.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T11:21:39.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListTests.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabUnitTests\\ListTests.cs",
+              "RelativeDocumentMoniker": "12LabUnitTests\\ListTests.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabUnitTests\\ListTests.cs",
+              "RelativeToolTip": "12LabUnitTests\\ListTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:41:13.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\Lab12_C#\\Program.cs",
+              "RelativeDocumentMoniker": "Lab12_C#\\Program.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\Lab12_C#\\Program.cs",
+              "RelativeToolTip": "Lab12_C#\\Program.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAqwFwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T09:08:14.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabLibrary\\Point.cs",
+              "RelativeDocumentMoniker": "12LabLibrary\\Point.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabLibrary\\Point.cs",
+              "RelativeToolTip": "12LabLibrary\\Point.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T09:09:13.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyEnumerator.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabLibrary\\MyEnumerator.cs",
+              "RelativeDocumentMoniker": "12LabLibrary\\MyEnumerator.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabLibrary\\MyEnumerator.cs",
+              "RelativeToolTip": "12LabLibrary\\MyEnumerator.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T14:05:32.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HashEnumerator.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabLibrary\\HashEnumerator.cs",
+              "RelativeDocumentMoniker": "12LabLibrary\\HashEnumerator.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab12_C#\\12LabLibrary\\HashEnumerator.cs",
+              "RelativeToolTip": "12LabLibrary\\HashEnumerator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T11:08:17.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pvl2z\\source\\repos\\Lab14_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{170F4E24-A343-4B9C-B342-786B9122AF4A}|Lab14_C#\\Lab14_C#.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab14_C#\\lab14_c#\\newclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170F4E24-A343-4B9C-B342-786B9122AF4A}|Lab14_C#\\Lab14_C#.csproj|solutionrelative:lab14_c#\\newclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170F4E24-A343-4B9C-B342-786B9122AF4A}|Lab14_C#\\Lab14_C#.csproj|C:\\Users\\pvl2z\\source\\repos\\Lab14_C#\\lab14_c#\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170F4E24-A343-4B9C-B342-786B9122AF4A}|Lab14_C#\\Lab14_C#.csproj|solutionrelative:lab14_c#\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170F4E24-A343-4B9C-B342-786B9122AF4A}|Lab14_C#\\Lab14_C#.csproj|c:\\users\\pvl2z\\source\\repos\\lab14_c#\\lab14_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170F4E24-A343-4B9C-B342-786B9122AF4A}|Lab14_C#\\Lab14_C#.csproj|solutionrelative:lab14_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Queries.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab14_C#\\Lab14_C#\\Queries.cs",
+              "RelativeDocumentMoniker": "Lab14_C#\\Queries.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab14_C#\\Lab14_C#\\Queries.cs",
+              "RelativeToolTip": "Lab14_C#\\Queries.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:42:46.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewClass.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab14_C#\\Lab14_C#\\NewClass.cs",
+              "RelativeDocumentMoniker": "Lab14_C#\\NewClass.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab14_C#\\Lab14_C#\\NewClass.cs",
+              "RelativeToolTip": "Lab14_C#\\NewClass.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAowG8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:06:33.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pvl2z\\source\\repos\\Lab14_C#\\Lab14_C#\\Program.cs",
+              "RelativeDocumentMoniker": "Lab14_C#\\Program.cs",
+              "ToolTip": "C:\\Users\\pvl2z\\source\\repos\\Lab14_C#\\Lab14_C#\\Program.cs",
+              "RelativeToolTip": "Lab14_C#\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T10:09:58.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

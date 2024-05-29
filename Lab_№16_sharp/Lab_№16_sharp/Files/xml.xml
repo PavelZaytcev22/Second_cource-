@@ -1,0 +1,5505 @@
+<?xml version="1.0"?>
+<ChallengeTest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <challenges>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>104</Questions>
+      <Date>11/3/51</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>48</Questions>
+      <Date>9/11/1</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>138</Questions>
+      <Date>13/4/46</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>11</Questions>
+      <Date>22/8/44</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>113</Questions>
+      <Date>22/10/35</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>82</Questions>
+      <Date>15/3/98</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>173</Questions>
+      <Date>18/7/40</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>211</Questions>
+      <Date>21/9/67</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>6</Questions>
+      <Date>13/11/4</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>153</Questions>
+      <Date>26/2/63</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>210</Questions>
+      <Date>15/4/32</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>109</Questions>
+      <Date>17/3/42</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>219</Questions>
+      <Date>10/8/72</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>46</Questions>
+      <Date>16/3/71</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>46</Questions>
+      <Date>6/8/69</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>114</Questions>
+      <Date>19/3/19</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>102</Questions>
+      <Date>20/4/36</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>143</Questions>
+      <Date>24/1/3</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>156</Questions>
+      <Date>8/1/27</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>162</Questions>
+      <Date>26/5/19</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>181</Questions>
+      <Date>19/4/44</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>135</Questions>
+      <Date>11/6/49</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>92</Questions>
+      <Date>17/10/58</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>163</Questions>
+      <Date>24/1/77</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>106</Questions>
+      <Date>11/5/98</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>98</Questions>
+      <Date>26/10/37</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>203</Questions>
+      <Date>13/8/89</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>13</Questions>
+      <Date>18/3/68</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>31</Questions>
+      <Date>12/7/83</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>207</Questions>
+      <Date>29/2/83</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>154</Questions>
+      <Date>5/3/66</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>131</Questions>
+      <Date>14/5/38</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>127</Questions>
+      <Date>20/7/48</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>15</Questions>
+      <Date>8/3/32</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>180</Questions>
+      <Date>24/6/79</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>64</Questions>
+      <Date>9/1/72</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>73</Questions>
+      <Date>6/3/21</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>29</Questions>
+      <Date>25/9/50</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>19</Questions>
+      <Date>24/10/87</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>64</Questions>
+      <Date>9/2/43</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>136</Questions>
+      <Date>22/9/92</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>59</Questions>
+      <Date>9/11/3</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>23</Questions>
+      <Date>21/8/37</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>186</Questions>
+      <Date>24/11/26</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>117</Questions>
+      <Date>13/10/47</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>150</Questions>
+      <Date>25/4/83</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>111</Questions>
+      <Date>8/6/55</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>140</Questions>
+      <Date>29/10/77</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>168</Questions>
+      <Date>11/1/27</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>64</Questions>
+      <Date>16/9/21</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>210</Questions>
+      <Date>6/3/81</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>88</Questions>
+      <Date>7/9/81</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>105</Questions>
+      <Date>10/10/12</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>146</Questions>
+      <Date>25/4/85</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>10</Questions>
+      <Date>18/3/5</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>165</Questions>
+      <Date>17/9/3</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>151</Questions>
+      <Date>9/10/31</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>173</Questions>
+      <Date>17/3/46</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>118</Questions>
+      <Date>5/4/89</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>6</Questions>
+      <Date>21/1/45</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>45</Questions>
+      <Date>23/5/95</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>170</Questions>
+      <Date>28/11/22</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>121</Questions>
+      <Date>10/9/74</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>29</Questions>
+      <Date>7/7/8</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>84</Questions>
+      <Date>17/11/7</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>60</Questions>
+      <Date>21/8/98</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>47</Questions>
+      <Date>27/1/26</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>112</Questions>
+      <Date>21/5/84</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>52</Questions>
+      <Date>13/3/43</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>203</Questions>
+      <Date>19/7/94</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>67</Questions>
+      <Date>17/1/49</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>95</Questions>
+      <Date>24/1/69</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>88</Questions>
+      <Date>8/10/16</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>33</Questions>
+      <Date>5/9/55</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>174</Questions>
+      <Date>21/3/72</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>92</Questions>
+      <Date>8/3/9</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>33</Questions>
+      <Date>23/11/74</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>115</Questions>
+      <Date>16/4/51</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>86</Questions>
+      <Date>18/8/2</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>168</Questions>
+      <Date>13/11/86</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>190</Questions>
+      <Date>21/4/35</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>217</Questions>
+      <Date>27/2/40</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>131</Questions>
+      <Date>17/9/96</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>167</Questions>
+      <Date>6/5/24</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>120</Questions>
+      <Date>18/1/49</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>149</Questions>
+      <Date>7/4/84</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>185</Questions>
+      <Date>13/9/82</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>22</Questions>
+      <Date>16/3/98</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>95</Questions>
+      <Date>29/3/13</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>103</Questions>
+      <Date>14/3/30</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>195</Questions>
+      <Date>15/6/56</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>173</Questions>
+      <Date>6/10/4</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>167</Questions>
+      <Date>28/4/9</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>150</Questions>
+      <Date>7/11/65</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>63</Questions>
+      <Date>19/1/98</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>139</Questions>
+      <Date>15/8/65</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>62</Questions>
+      <Date>9/8/83</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>192</Questions>
+      <Date>26/7/38</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>89</Questions>
+      <Date>8/2/28</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>139</Questions>
+      <Date>16/9/37</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>166</Questions>
+      <Date>16/2/87</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>104</Questions>
+      <Date>25/3/10</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>187</Questions>
+      <Date>9/4/64</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>28</Questions>
+      <Date>26/5/11</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>98</Questions>
+      <Date>11/8/44</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>70</Questions>
+      <Date>12/6/34</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>215</Questions>
+      <Date>7/9/77</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>159</Questions>
+      <Date>22/7/77</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>173</Questions>
+      <Date>17/3/41</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>96</Questions>
+      <Date>15/9/53</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>96</Questions>
+      <Date>25/6/26</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>162</Questions>
+      <Date>6/10/84</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>192</Questions>
+      <Date>19/9/3</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>152</Questions>
+      <Date>7/11/83</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>185</Questions>
+      <Date>16/6/74</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>189</Questions>
+      <Date>24/2/95</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>157</Questions>
+      <Date>19/8/8</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>162</Questions>
+      <Date>9/2/72</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>93</Questions>
+      <Date>7/7/79</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>46</Questions>
+      <Date>18/7/27</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>114</Questions>
+      <Date>27/7/19</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>42</Questions>
+      <Date>11/6/83</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>142</Questions>
+      <Date>5/9/17</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>75</Questions>
+      <Date>7/9/65</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>159</Questions>
+      <Date>11/9/49</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>149</Questions>
+      <Date>6/4/98</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>205</Questions>
+      <Date>22/2/89</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>119</Questions>
+      <Date>7/4/15</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>49</Questions>
+      <Date>25/7/58</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>103</Questions>
+      <Date>16/6/90</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>97</Questions>
+      <Date>29/2/70</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>115</Questions>
+      <Date>14/10/70</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>15</Questions>
+      <Date>16/10/97</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>95</Questions>
+      <Date>9/8/45</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>195</Questions>
+      <Date>9/9/72</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>144</Questions>
+      <Date>14/11/4</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>93</Questions>
+      <Date>8/5/44</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>134</Questions>
+      <Date>19/8/96</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>22</Questions>
+      <Date>16/10/17</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>59</Questions>
+      <Date>6/9/55</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>19</Questions>
+      <Date>18/9/55</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>51</Questions>
+      <Date>26/3/76</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>156</Questions>
+      <Date>28/7/40</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>185</Questions>
+      <Date>27/7/32</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>100</Questions>
+      <Date>9/10/3</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>151</Questions>
+      <Date>17/7/19</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>115</Questions>
+      <Date>9/5/89</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>219</Questions>
+      <Date>22/5/66</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>9</Questions>
+      <Date>15/10/50</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>214</Questions>
+      <Date>8/11/74</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>219</Questions>
+      <Date>16/10/93</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>112</Questions>
+      <Date>23/10/80</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>155</Questions>
+      <Date>24/9/33</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>115</Questions>
+      <Date>11/7/42</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>61</Questions>
+      <Date>18/10/20</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>208</Questions>
+      <Date>19/4/41</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>67</Questions>
+      <Date>11/6/28</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>98</Questions>
+      <Date>7/5/6</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>82</Questions>
+      <Date>20/11/44</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>92</Questions>
+      <Date>18/9/20</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>81</Questions>
+      <Date>12/6/14</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>139</Questions>
+      <Date>9/5/12</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>166</Questions>
+      <Date>11/3/50</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>64</Questions>
+      <Date>7/6/67</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>109</Questions>
+      <Date>7/9/51</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>195</Questions>
+      <Date>13/8/71</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>66</Questions>
+      <Date>28/8/48</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>126</Questions>
+      <Date>27/11/61</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>173</Questions>
+      <Date>26/3/48</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>154</Questions>
+      <Date>8/10/97</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>148</Questions>
+      <Date>9/8/78</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>36</Questions>
+      <Date>26/7/80</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>128</Questions>
+      <Date>5/6/37</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>46</Questions>
+      <Date>21/1/97</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>68</Questions>
+      <Date>9/7/39</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>31</Questions>
+      <Date>15/9/95</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>97</Questions>
+      <Date>19/4/32</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>22</Questions>
+      <Date>29/10/45</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>44</Questions>
+      <Date>22/4/20</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>217</Questions>
+      <Date>25/9/64</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>161</Questions>
+      <Date>25/6/78</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>165</Questions>
+      <Date>12/2/10</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>141</Questions>
+      <Date>13/11/28</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>114</Questions>
+      <Date>10/8/22</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>121</Questions>
+      <Date>6/4/42</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>190</Questions>
+      <Date>29/4/80</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>204</Questions>
+      <Date>11/8/13</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>182</Questions>
+      <Date>17/8/51</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>110</Questions>
+      <Date>10/6/83</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>101</Questions>
+      <Date>15/7/29</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>121</Questions>
+      <Date>7/2/80</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>20</Questions>
+      <Date>16/3/41</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>205</Questions>
+      <Date>12/6/47</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>173</Questions>
+      <Date>16/8/8</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>138</Questions>
+      <Date>18/9/6</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>5</Questions>
+      <Date>22/1/46</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>200</Questions>
+      <Date>8/11/45</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>140</Questions>
+      <Date>9/5/33</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>115</Questions>
+      <Date>19/5/24</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>73</Questions>
+      <Date>29/6/8</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>116</Questions>
+      <Date>11/8/31</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>157</Questions>
+      <Date>22/10/29</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>23</Questions>
+      <Date>26/3/20</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>159</Questions>
+      <Date>20/8/12</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>124</Questions>
+      <Date>22/4/22</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>55</Questions>
+      <Date>11/5/32</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>6</Questions>
+      <Date>10/6/24</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>139</Questions>
+      <Date>16/6/30</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>105</Questions>
+      <Date>5/3/37</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>118</Questions>
+      <Date>27/8/45</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>44</Questions>
+      <Date>25/1/55</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>112</Questions>
+      <Date>19/9/33</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>139</Questions>
+      <Date>20/8/14</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>75</Questions>
+      <Date>22/10/92</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>155</Questions>
+      <Date>6/10/75</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>32</Questions>
+      <Date>27/1/44</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>36</Questions>
+      <Date>6/4/10</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>171</Questions>
+      <Date>14/4/33</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>70</Questions>
+      <Date>15/11/17</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>49</Questions>
+      <Date>22/2/41</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>130</Questions>
+      <Date>25/3/79</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>20</Questions>
+      <Date>26/11/26</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>170</Questions>
+      <Date>5/2/44</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>161</Questions>
+      <Date>27/7/31</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>155</Questions>
+      <Date>24/11/88</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>202</Questions>
+      <Date>29/8/53</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>104</Questions>
+      <Date>11/8/55</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>164</Questions>
+      <Date>17/4/5</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>141</Questions>
+      <Date>8/10/60</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>21</Questions>
+      <Date>9/1/84</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>147</Questions>
+      <Date>21/11/74</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>180</Questions>
+      <Date>21/2/53</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>50</Questions>
+      <Date>24/3/17</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>145</Questions>
+      <Date>23/3/86</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>135</Questions>
+      <Date>24/7/43</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>11</Questions>
+      <Date>27/2/54</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>69</Questions>
+      <Date>10/5/29</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>31</Questions>
+      <Date>8/3/6</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>110</Questions>
+      <Date>29/2/70</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>50</Questions>
+      <Date>6/6/33</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>54</Questions>
+      <Date>14/11/91</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>191</Questions>
+      <Date>22/10/13</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>174</Questions>
+      <Date>12/5/60</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>17</Questions>
+      <Date>10/7/25</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>177</Questions>
+      <Date>15/1/83</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>39</Questions>
+      <Date>27/1/40</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>145</Questions>
+      <Date>13/3/55</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>186</Questions>
+      <Date>11/5/92</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>114</Questions>
+      <Date>26/9/46</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>128</Questions>
+      <Date>23/11/9</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>151</Questions>
+      <Date>26/10/43</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>131</Questions>
+      <Date>25/1/65</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>90</Questions>
+      <Date>23/9/38</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>183</Questions>
+      <Date>20/6/80</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>56</Questions>
+      <Date>13/7/48</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>42</Questions>
+      <Date>27/2/64</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>190</Questions>
+      <Date>8/1/92</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>211</Questions>
+      <Date>24/11/83</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>59</Questions>
+      <Date>7/3/24</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>54</Questions>
+      <Date>24/3/64</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>86</Questions>
+      <Date>28/11/32</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>148</Questions>
+      <Date>22/2/62</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>118</Questions>
+      <Date>26/5/31</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>198</Questions>
+      <Date>16/10/20</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>62</Questions>
+      <Date>26/2/34</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>214</Questions>
+      <Date>15/7/26</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>36</Questions>
+      <Date>21/4/14</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>160</Questions>
+      <Date>15/1/74</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>27</Questions>
+      <Date>11/2/79</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>203</Questions>
+      <Date>7/7/28</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>143</Questions>
+      <Date>15/4/70</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>86</Questions>
+      <Date>18/6/78</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>98</Questions>
+      <Date>6/1/41</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>169</Questions>
+      <Date>9/2/88</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>75</Questions>
+      <Date>15/1/25</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>141</Questions>
+      <Date>5/6/57</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>161</Questions>
+      <Date>9/2/47</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>154</Questions>
+      <Date>25/6/67</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>11</Questions>
+      <Date>16/5/71</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>116</Questions>
+      <Date>6/11/65</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>70</Questions>
+      <Date>14/5/49</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>32</Questions>
+      <Date>29/2/79</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>182</Questions>
+      <Date>20/11/97</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>71</Questions>
+      <Date>11/2/55</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>104</Questions>
+      <Date>19/6/24</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>134</Questions>
+      <Date>22/4/86</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>109</Questions>
+      <Date>23/9/21</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>186</Questions>
+      <Date>13/8/37</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>13</Questions>
+      <Date>9/5/1</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>74</Questions>
+      <Date>14/6/80</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>82</Questions>
+      <Date>27/6/44</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>174</Questions>
+      <Date>7/10/82</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>133</Questions>
+      <Date>26/3/85</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>23</Questions>
+      <Date>18/11/47</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>130</Questions>
+      <Date>21/9/77</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>149</Questions>
+      <Date>14/2/60</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>141</Questions>
+      <Date>7/6/88</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>17</Questions>
+      <Date>15/2/75</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>123</Questions>
+      <Date>12/6/48</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>188</Questions>
+      <Date>21/1/91</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>155</Questions>
+      <Date>16/5/76</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>101</Questions>
+      <Date>27/3/98</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>160</Questions>
+      <Date>26/7/59</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>80</Questions>
+      <Date>12/9/40</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>68</Questions>
+      <Date>5/6/11</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>209</Questions>
+      <Date>28/7/37</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>8</Questions>
+      <Date>20/6/3</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>172</Questions>
+      <Date>5/9/38</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>94</Questions>
+      <Date>7/4/64</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>185</Questions>
+      <Date>5/4/32</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>189</Questions>
+      <Date>21/5/85</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>70</Questions>
+      <Date>24/9/43</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>105</Questions>
+      <Date>12/7/49</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>85</Questions>
+      <Date>11/4/91</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>81</Questions>
+      <Date>6/7/25</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>76</Questions>
+      <Date>26/2/10</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>98</Questions>
+      <Date>16/7/78</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>160</Questions>
+      <Date>27/8/90</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>217</Questions>
+      <Date>16/5/83</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>206</Questions>
+      <Date>9/7/29</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>146</Questions>
+      <Date>12/11/13</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>53</Questions>
+      <Date>16/6/31</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>33</Questions>
+      <Date>28/8/90</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>10</Questions>
+      <Date>7/10/97</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>209</Questions>
+      <Date>29/11/49</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>40</Questions>
+      <Date>23/10/32</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>200</Questions>
+      <Date>17/7/94</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>177</Questions>
+      <Date>14/11/23</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>200</Questions>
+      <Date>21/4/5</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>166</Questions>
+      <Date>21/6/44</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>49</Questions>
+      <Date>18/7/51</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>198</Questions>
+      <Date>29/7/40</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>156</Questions>
+      <Date>5/2/13</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>60</Questions>
+      <Date>14/5/98</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>161</Questions>
+      <Date>17/6/97</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>15</Questions>
+      <Date>9/11/76</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>176</Questions>
+      <Date>6/3/74</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>54</Questions>
+      <Date>27/5/17</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>110</Questions>
+      <Date>27/9/47</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>82</Questions>
+      <Date>5/5/28</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>219</Questions>
+      <Date>15/4/13</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>64</Questions>
+      <Date>27/2/24</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>135</Questions>
+      <Date>9/7/63</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>188</Questions>
+      <Date>20/6/28</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>189</Questions>
+      <Date>25/6/12</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>121</Questions>
+      <Date>20/11/61</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>196</Questions>
+      <Date>6/10/29</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>10</Questions>
+      <Date>15/8/57</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>20</Questions>
+      <Date>26/1/97</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>41</Questions>
+      <Date>26/2/16</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>88</Questions>
+      <Date>6/10/57</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>17</Questions>
+      <Date>7/5/39</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>81</Questions>
+      <Date>9/8/57</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>156</Questions>
+      <Date>24/4/86</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>129</Questions>
+      <Date>9/1/69</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>172</Questions>
+      <Date>22/5/8</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>75</Questions>
+      <Date>7/7/11</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>202</Questions>
+      <Date>29/6/65</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>48</Questions>
+      <Date>8/2/37</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>161</Questions>
+      <Date>27/1/85</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>165</Questions>
+      <Date>12/7/28</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>55</Questions>
+      <Date>21/10/12</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>93</Questions>
+      <Date>19/5/81</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>170</Questions>
+      <Date>5/8/8</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>34</Questions>
+      <Date>25/1/49</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>96</Questions>
+      <Date>12/2/4</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>184</Questions>
+      <Date>8/4/74</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>26</Questions>
+      <Date>8/10/39</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>123</Questions>
+      <Date>10/6/14</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>75</Questions>
+      <Date>9/1/83</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>172</Questions>
+      <Date>13/1/20</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>72</Questions>
+      <Date>27/6/36</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>48</Questions>
+      <Date>26/1/34</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>165</Questions>
+      <Date>10/2/29</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>200</Questions>
+      <Date>26/11/37</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>124</Questions>
+      <Date>29/8/84</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>47</Questions>
+      <Date>23/2/56</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>22</Questions>
+      <Date>12/1/63</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>130</Questions>
+      <Date>26/11/50</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>165</Questions>
+      <Date>18/10/74</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>195</Questions>
+      <Date>7/9/19</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>58</Questions>
+      <Date>26/6/3</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>111</Questions>
+      <Date>14/11/52</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>71</Questions>
+      <Date>10/1/24</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>203</Questions>
+      <Date>11/10/57</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>10</Questions>
+      <Date>6/9/95</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>158</Questions>
+      <Date>29/7/76</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>144</Questions>
+      <Date>9/11/82</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>213</Questions>
+      <Date>27/11/23</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>7</Questions>
+      <Date>26/5/23</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>210</Questions>
+      <Date>9/4/31</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>114</Questions>
+      <Date>10/4/19</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>65</Questions>
+      <Date>18/8/62</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>136</Questions>
+      <Date>10/3/54</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>199</Questions>
+      <Date>21/10/75</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>155</Questions>
+      <Date>27/6/58</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>136</Questions>
+      <Date>5/6/38</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>140</Questions>
+      <Date>15/11/37</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>14</Questions>
+      <Date>23/3/41</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>84</Questions>
+      <Date>9/8/34</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>89</Questions>
+      <Date>5/7/84</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>46</Questions>
+      <Date>19/2/17</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>158</Questions>
+      <Date>14/9/76</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>61</Questions>
+      <Date>5/11/40</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>11</Questions>
+      <Date>11/7/44</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>99</Questions>
+      <Date>22/2/36</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>21</Questions>
+      <Date>16/11/41</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>215</Questions>
+      <Date>24/11/46</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>27</Questions>
+      <Date>20/5/89</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>118</Questions>
+      <Date>27/10/2</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>36</Questions>
+      <Date>7/11/37</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>88</Questions>
+      <Date>18/11/83</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>62</Questions>
+      <Date>13/2/14</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>32</Questions>
+      <Date>17/4/87</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>84</Questions>
+      <Date>15/3/62</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>173</Questions>
+      <Date>15/2/13</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>71</Questions>
+      <Date>9/5/76</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>170</Questions>
+      <Date>28/5/92</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>62</Questions>
+      <Date>6/10/32</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>30</Questions>
+      <Date>23/1/47</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>102</Questions>
+      <Date>10/9/60</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>58</Questions>
+      <Date>27/10/37</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>59</Questions>
+      <Date>24/10/60</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>210</Questions>
+      <Date>9/3/47</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>121</Questions>
+      <Date>6/11/87</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>190</Questions>
+      <Date>13/3/60</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>10</Questions>
+      <Date>27/7/12</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>24</Questions>
+      <Date>24/9/78</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>109</Questions>
+      <Date>9/2/87</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>39</Questions>
+      <Date>5/6/86</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>61</Questions>
+      <Date>24/4/34</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>149</Questions>
+      <Date>19/5/84</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>18</Questions>
+      <Date>10/9/3</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>108</Questions>
+      <Date>13/8/78</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>64</Questions>
+      <Date>28/5/65</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>79</Questions>
+      <Date>18/8/48</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>207</Questions>
+      <Date>23/8/21</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>135</Questions>
+      <Date>26/6/1</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>215</Questions>
+      <Date>15/4/27</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>149</Questions>
+      <Date>28/9/40</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>79</Questions>
+      <Date>12/11/26</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>161</Questions>
+      <Date>15/7/24</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>93</Questions>
+      <Date>19/4/38</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>167</Questions>
+      <Date>21/10/29</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>77</Questions>
+      <Date>18/3/74</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>97</Questions>
+      <Date>6/8/8</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>152</Questions>
+      <Date>15/11/56</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>112</Questions>
+      <Date>26/1/63</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>94</Questions>
+      <Date>15/7/94</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>6</Questions>
+      <Date>10/3/80</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>109</Questions>
+      <Date>20/8/4</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>132</Questions>
+      <Date>17/2/51</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>77</Questions>
+      <Date>14/11/81</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>212</Questions>
+      <Date>6/4/44</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>119</Questions>
+      <Date>21/1/48</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>113</Questions>
+      <Date>29/9/68</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>52</Questions>
+      <Date>27/6/60</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>200</Questions>
+      <Date>19/6/41</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>86</Questions>
+      <Date>29/7/89</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>206</Questions>
+      <Date>17/11/14</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>101</Questions>
+      <Date>21/2/97</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>106</Questions>
+      <Date>12/5/80</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>70</Questions>
+      <Date>23/5/73</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>218</Questions>
+      <Date>24/7/23</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>51</Questions>
+      <Date>5/10/86</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>72</Questions>
+      <Date>14/2/18</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>9</Questions>
+      <Date>5/5/24</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>107</Questions>
+      <Date>26/5/74</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>53</Questions>
+      <Date>9/10/35</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>197</Questions>
+      <Date>17/9/6</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>206</Questions>
+      <Date>13/6/44</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>45</Questions>
+      <Date>24/9/32</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>27</Questions>
+      <Date>10/11/75</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>7</Questions>
+      <Date>23/11/68</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>107</Questions>
+      <Date>29/1/27</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>42</Questions>
+      <Date>22/6/37</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>111</Questions>
+      <Date>7/3/67</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>23</Questions>
+      <Date>6/7/29</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>182</Questions>
+      <Date>15/4/66</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>67</Questions>
+      <Date>25/5/88</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>102</Questions>
+      <Date>15/8/4</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>81</Questions>
+      <Date>25/2/62</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>161</Questions>
+      <Date>9/10/75</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>173</Questions>
+      <Date>28/4/50</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>116</Questions>
+      <Date>18/1/57</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>78</Questions>
+      <Date>14/1/11</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>103</Questions>
+      <Date>21/1/37</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>62</Questions>
+      <Date>24/3/94</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>18</Questions>
+      <Date>15/5/44</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>196</Questions>
+      <Date>15/4/42</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>118</Questions>
+      <Date>21/10/27</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>213</Questions>
+      <Date>23/6/12</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>192</Questions>
+      <Date>17/2/39</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>205</Questions>
+      <Date>5/5/94</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>52</Questions>
+      <Date>22/9/19</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>81</Questions>
+      <Date>22/8/39</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>132</Questions>
+      <Date>16/9/18</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>217</Questions>
+      <Date>9/11/73</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>113</Questions>
+      <Date>8/2/57</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>47</Questions>
+      <Date>22/6/28</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>35</Questions>
+      <Date>20/4/22</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>181</Questions>
+      <Date>24/2/96</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>183</Questions>
+      <Date>13/10/13</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>217</Questions>
+      <Date>18/3/64</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>43</Questions>
+      <Date>26/3/5</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>38</Questions>
+      <Date>17/2/51</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>166</Questions>
+      <Date>13/1/18</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>207</Questions>
+      <Date>9/2/27</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>45</Questions>
+      <Date>13/8/17</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>185</Questions>
+      <Date>10/4/80</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>125</Questions>
+      <Date>25/4/9</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>188</Questions>
+      <Date>12/7/23</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>180</Questions>
+      <Date>18/11/84</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>70</Questions>
+      <Date>23/4/22</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>138</Questions>
+      <Date>26/2/34</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>10</Questions>
+      <Date>13/9/88</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>73</Questions>
+      <Date>27/6/70</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>107</Questions>
+      <Date>28/10/67</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>142</Questions>
+      <Date>22/5/20</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>58</Questions>
+      <Date>18/8/90</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>99</Questions>
+      <Date>26/8/83</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>70</Questions>
+      <Date>26/7/73</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>121</Questions>
+      <Date>6/2/2</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>139</Questions>
+      <Date>6/10/58</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>188</Questions>
+      <Date>9/3/87</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>17</Questions>
+      <Date>16/6/9</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>140</Questions>
+      <Date>18/5/82</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>127</Questions>
+      <Date>8/9/58</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>203</Questions>
+      <Date>12/2/29</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>206</Questions>
+      <Date>15/10/17</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>186</Questions>
+      <Date>5/4/17</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>151</Questions>
+      <Date>6/5/10</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>120</Questions>
+      <Date>18/3/68</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>51</Questions>
+      <Date>28/9/36</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>66</Questions>
+      <Date>7/11/47</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>42</Questions>
+      <Date>18/4/7</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>157</Questions>
+      <Date>18/6/34</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>161</Questions>
+      <Date>26/4/91</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>38</Questions>
+      <Date>7/9/3</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>172</Questions>
+      <Date>14/7/86</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>172</Questions>
+      <Date>25/2/79</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>36</Questions>
+      <Date>12/3/89</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>39</Questions>
+      <Date>22/3/40</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>90</Questions>
+      <Date>16/3/76</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>147</Questions>
+      <Date>7/2/15</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>102</Questions>
+      <Date>23/11/87</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>88</Questions>
+      <Date>10/9/48</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>119</Questions>
+      <Date>7/3/34</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>166</Questions>
+      <Date>18/4/38</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>118</Questions>
+      <Date>22/2/70</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>70</Questions>
+      <Date>11/10/1</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>47</Questions>
+      <Date>27/9/41</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>113</Questions>
+      <Date>26/10/57</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>33</Questions>
+      <Date>20/8/75</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>174</Questions>
+      <Date>15/5/36</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>26</Questions>
+      <Date>25/5/77</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>51</Questions>
+      <Date>22/9/49</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>64</Questions>
+      <Date>13/11/97</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>7</Questions>
+      <Date>11/2/43</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>132</Questions>
+      <Date>22/5/47</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>13</Questions>
+      <Date>28/11/97</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>128</Questions>
+      <Date>13/6/29</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>187</Questions>
+      <Date>21/5/93</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>78</Questions>
+      <Date>6/3/19</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>79</Questions>
+      <Date>29/1/25</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>99</Questions>
+      <Date>5/10/4</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>169</Questions>
+      <Date>13/4/49</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>209</Questions>
+      <Date>16/4/55</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>56</Questions>
+      <Date>26/2/76</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>78</Questions>
+      <Date>12/4/43</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>159</Questions>
+      <Date>26/3/78</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>125</Questions>
+      <Date>20/4/47</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>19</Questions>
+      <Date>15/8/42</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>169</Questions>
+      <Date>25/1/36</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>61</Questions>
+      <Date>27/8/5</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>83</Questions>
+      <Date>9/5/26</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>9</Questions>
+      <Date>20/8/87</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>9</Questions>
+      <Date>8/8/42</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>163</Questions>
+      <Date>18/3/8</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>67</Questions>
+      <Date>19/4/94</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>128</Questions>
+      <Date>12/9/48</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>217</Questions>
+      <Date>5/5/30</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>187</Questions>
+      <Date>27/4/45</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>60</Questions>
+      <Date>25/2/27</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>168</Questions>
+      <Date>19/9/79</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>115</Questions>
+      <Date>9/1/25</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>51</Questions>
+      <Date>15/5/37</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>89</Questions>
+      <Date>14/1/83</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>36</Questions>
+      <Date>6/8/34</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>119</Questions>
+      <Date>19/9/82</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>98</Questions>
+      <Date>13/10/22</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>73</Questions>
+      <Date>25/7/93</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>204</Questions>
+      <Date>20/6/87</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>205</Questions>
+      <Date>6/3/73</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>103</Questions>
+      <Date>29/2/73</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>199</Questions>
+      <Date>19/4/52</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>192</Questions>
+      <Date>5/8/66</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>201</Questions>
+      <Date>20/11/1</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>65</Questions>
+      <Date>16/9/84</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>218</Questions>
+      <Date>26/2/79</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>150</Questions>
+      <Date>12/9/45</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>160</Questions>
+      <Date>24/9/49</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>207</Questions>
+      <Date>18/2/72</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>17</Questions>
+      <Date>25/2/95</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>65</Questions>
+      <Date>25/8/47</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>118</Questions>
+      <Date>17/5/89</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>12</Questions>
+      <Date>10/6/12</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>219</Questions>
+      <Date>27/4/1</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>193</Questions>
+      <Date>25/5/98</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>48</Questions>
+      <Date>27/4/17</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>135</Questions>
+      <Date>8/3/85</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>193</Questions>
+      <Date>27/11/79</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>41</Questions>
+      <Date>22/7/65</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>113</Questions>
+      <Date>22/8/28</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>201</Questions>
+      <Date>27/9/62</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>54</Questions>
+      <Date>19/6/2</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>154</Questions>
+      <Date>20/9/80</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>215</Questions>
+      <Date>11/8/45</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>8</Questions>
+      <Date>19/3/39</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>65</Questions>
+      <Date>24/2/62</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>201</Questions>
+      <Date>9/11/21</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>178</Questions>
+      <Date>26/8/2</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>125</Questions>
+      <Date>29/2/18</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>198</Questions>
+      <Date>13/2/95</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>209</Questions>
+      <Date>28/3/77</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>59</Questions>
+      <Date>14/7/77</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>123</Questions>
+      <Date>13/1/61</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>118</Questions>
+      <Date>8/4/85</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>192</Questions>
+      <Date>22/4/91</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>120</Questions>
+      <Date>25/5/60</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>8</Questions>
+      <Date>16/7/98</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>128</Questions>
+      <Date>25/3/3</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>90</Questions>
+      <Date>19/9/96</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>64</Questions>
+      <Date>13/3/57</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>28</Questions>
+      <Date>14/3/74</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>49</Questions>
+      <Date>29/6/83</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>40</Questions>
+      <Date>24/2/98</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>98</Questions>
+      <Date>7/2/69</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>211</Questions>
+      <Date>6/4/47</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>5</Questions>
+      <Date>26/9/85</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>63</Questions>
+      <Date>6/3/93</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>116</Questions>
+      <Date>12/2/21</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>150</Questions>
+      <Date>20/2/91</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>79</Questions>
+      <Date>8/7/82</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>104</Questions>
+      <Date>10/3/55</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>110</Questions>
+      <Date>9/7/84</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>149</Questions>
+      <Date>7/8/96</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>79</Questions>
+      <Date>12/6/24</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>5</Questions>
+      <Date>19/9/43</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>23</Questions>
+      <Date>25/3/88</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>30</Questions>
+      <Date>10/6/91</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>72</Questions>
+      <Date>10/7/21</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>154</Questions>
+      <Date>24/10/61</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>69</Questions>
+      <Date>27/5/86</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>195</Questions>
+      <Date>14/1/59</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>218</Questions>
+      <Date>24/7/18</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>80</Questions>
+      <Date>18/4/56</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>117</Questions>
+      <Date>5/6/71</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>69</Questions>
+      <Date>14/8/87</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>197</Questions>
+      <Date>28/9/68</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>136</Questions>
+      <Date>29/11/11</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>181</Questions>
+      <Date>19/5/91</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>82</Questions>
+      <Date>13/2/15</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>168</Questions>
+      <Date>12/5/66</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>149</Questions>
+      <Date>7/9/9</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>11</Questions>
+      <Date>8/2/6</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>90</Questions>
+      <Date>17/10/96</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>122</Questions>
+      <Date>8/7/58</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>167</Questions>
+      <Date>18/7/67</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>165</Questions>
+      <Date>23/9/56</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>167</Questions>
+      <Date>17/4/47</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>35</Questions>
+      <Date>22/4/61</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>20</Questions>
+      <Date>29/8/79</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>136</Questions>
+      <Date>6/5/11</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>214</Questions>
+      <Date>22/11/44</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>9</Questions>
+      <Date>13/7/75</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>84</Questions>
+      <Date>19/9/31</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>51</Questions>
+      <Date>26/10/67</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>54</Questions>
+      <Date>20/8/50</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>175</Questions>
+      <Date>12/10/14</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>45</Questions>
+      <Date>10/10/64</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>48</Questions>
+      <Date>19/4/87</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>56</Questions>
+      <Date>12/4/61</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>87</Questions>
+      <Date>11/5/21</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>62</Questions>
+      <Date>7/9/53</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>11</Questions>
+      <Date>7/3/60</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>115</Questions>
+      <Date>23/8/31</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>11</Questions>
+      <Date>15/11/57</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>205</Questions>
+      <Date>22/3/48</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>212</Questions>
+      <Date>11/1/61</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>159</Questions>
+      <Date>26/11/13</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>82</Questions>
+      <Date>24/11/31</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>128</Questions>
+      <Date>20/4/57</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>111</Questions>
+      <Date>17/2/11</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>34</Questions>
+      <Date>22/1/16</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>141</Questions>
+      <Date>22/6/4</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>103</Questions>
+      <Date>6/11/86</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>196</Questions>
+      <Date>19/8/94</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>87</Questions>
+      <Date>24/2/77</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>133</Questions>
+      <Date>27/10/43</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>215</Questions>
+      <Date>10/1/49</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>127</Questions>
+      <Date>10/6/24</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>75</Questions>
+      <Date>18/9/95</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>113</Questions>
+      <Date>16/6/2</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>118</Questions>
+      <Date>5/3/33</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>210</Questions>
+      <Date>28/10/74</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>42</Questions>
+      <Date>6/8/21</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>46</Questions>
+      <Date>15/9/20</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>218</Questions>
+      <Date>21/11/18</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>144</Questions>
+      <Date>18/10/15</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>144</Questions>
+      <Date>12/6/51</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>64</Questions>
+      <Date>14/5/44</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>142</Questions>
+      <Date>20/4/78</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>165</Questions>
+      <Date>8/8/56</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>170</Questions>
+      <Date>6/3/23</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>102</Questions>
+      <Date>17/7/38</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>31</Questions>
+      <Date>9/6/20</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>119</Questions>
+      <Date>22/7/34</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>175</Questions>
+      <Date>8/11/30</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>53</Questions>
+      <Date>20/4/53</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>38</Questions>
+      <Date>27/5/73</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>60</Questions>
+      <Date>7/4/65</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>51</Questions>
+      <Date>17/5/73</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>105</Questions>
+      <Date>20/5/23</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>140</Questions>
+      <Date>10/5/66</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>200</Questions>
+      <Date>27/6/2</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>132</Questions>
+      <Date>10/7/27</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>61</Questions>
+      <Date>15/1/90</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>214</Questions>
+      <Date>26/10/92</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>102</Questions>
+      <Date>23/11/58</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>121</Questions>
+      <Date>16/10/29</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>142</Questions>
+      <Date>26/6/2</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>211</Questions>
+      <Date>26/8/17</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>163</Questions>
+      <Date>7/4/61</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>186</Questions>
+      <Date>25/2/34</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>217</Questions>
+      <Date>16/4/9</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>135</Questions>
+      <Date>22/3/69</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>106</Questions>
+      <Date>11/7/69</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>45</Questions>
+      <Date>28/2/97</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>165</Questions>
+      <Date>25/1/54</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>55</Questions>
+      <Date>10/1/80</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>59</Questions>
+      <Date>20/4/82</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>150</Questions>
+      <Date>22/7/12</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>207</Questions>
+      <Date>12/11/77</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>81</Questions>
+      <Date>11/2/55</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>32</Questions>
+      <Date>12/3/72</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>186</Questions>
+      <Date>24/3/30</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>205</Questions>
+      <Date>20/6/94</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>6</Questions>
+      <Date>17/10/72</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>204</Questions>
+      <Date>19/6/12</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>74</Questions>
+      <Date>24/10/46</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>90</Questions>
+      <Date>5/11/26</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>185</Questions>
+      <Date>18/3/11</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>24</Questions>
+      <Date>22/9/66</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>211</Questions>
+      <Date>11/6/59</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>64</Questions>
+      <Date>9/1/75</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>33</Questions>
+      <Date>20/10/25</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>6</Questions>
+      <Date>6/3/7</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>20</Questions>
+      <Date>17/11/63</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>78</Questions>
+      <Date>12/3/40</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>12</Questions>
+      <Date>29/1/65</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>113</Questions>
+      <Date>12/4/45</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>19</Questions>
+      <Date>8/1/30</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>115</Questions>
+      <Date>20/4/71</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>73</Questions>
+      <Date>6/11/43</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>10</Questions>
+      <Date>15/8/42</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>130</Questions>
+      <Date>28/2/23</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>21</Questions>
+      <Date>19/10/39</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>41</Questions>
+      <Date>22/5/57</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>138</Questions>
+      <Date>14/2/91</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>77</Questions>
+      <Date>22/3/27</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>170</Questions>
+      <Date>12/2/4</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>155</Questions>
+      <Date>17/8/55</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>202</Questions>
+      <Date>17/7/84</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>76</Questions>
+      <Date>27/9/94</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>163</Questions>
+      <Date>6/5/15</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>72</Questions>
+      <Date>7/1/82</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>85</Questions>
+      <Date>27/2/36</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>190</Questions>
+      <Date>14/2/24</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>218</Questions>
+      <Date>21/9/81</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>34</Questions>
+      <Date>20/3/59</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>204</Questions>
+      <Date>19/10/95</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>210</Questions>
+      <Date>17/5/52</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>191</Questions>
+      <Date>8/11/18</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>13</Questions>
+      <Date>27/2/35</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>172</Questions>
+      <Date>9/8/85</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>35</Questions>
+      <Date>15/10/53</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>172</Questions>
+      <Date>24/10/85</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>161</Questions>
+      <Date>5/7/35</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>33</Questions>
+      <Date>20/3/66</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>163</Questions>
+      <Date>27/2/55</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>127</Questions>
+      <Date>7/10/15</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>31</Questions>
+      <Date>7/5/76</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>110</Questions>
+      <Date>9/2/6</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>211</Questions>
+      <Date>6/6/84</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>162</Questions>
+      <Date>9/4/37</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>16</Questions>
+      <Date>12/9/57</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>41</Questions>
+      <Date>26/3/44</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>74</Questions>
+      <Date>7/4/57</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>65</Questions>
+      <Date>25/4/16</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>61</Questions>
+      <Date>15/3/49</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>148</Questions>
+      <Date>22/4/65</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>172</Questions>
+      <Date>24/4/8</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>23</Questions>
+      <Date>5/11/6</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>52</Questions>
+      <Date>21/2/8</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>107</Questions>
+      <Date>11/11/7</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>142</Questions>
+      <Date>6/11/81</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>153</Questions>
+      <Date>22/6/37</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>28</Questions>
+      <Date>17/6/92</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>192</Questions>
+      <Date>20/6/40</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>129</Questions>
+      <Date>17/7/2</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>115</Questions>
+      <Date>27/9/70</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>116</Questions>
+      <Date>27/1/84</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>44</Questions>
+      <Date>9/6/52</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>61</Questions>
+      <Date>26/7/62</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>56</Questions>
+      <Date>24/5/7</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>114</Questions>
+      <Date>20/1/22</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>29</Questions>
+      <Date>24/9/13</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>155</Questions>
+      <Date>19/9/91</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>59</Questions>
+      <Date>12/7/39</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>39</Questions>
+      <Date>15/2/82</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>192</Questions>
+      <Date>10/8/67</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>22</Questions>
+      <Date>8/1/82</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>102</Questions>
+      <Date>12/11/20</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>76</Questions>
+      <Date>14/10/98</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>41</Questions>
+      <Date>27/6/68</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>145</Questions>
+      <Date>9/3/45</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>77</Questions>
+      <Date>14/8/32</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>32</Questions>
+      <Date>12/7/57</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>148</Questions>
+      <Date>25/5/39</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>117</Questions>
+      <Date>27/1/97</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>13</Questions>
+      <Date>10/11/44</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>153</Questions>
+      <Date>18/4/32</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>219</Questions>
+      <Date>19/2/83</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>131</Questions>
+      <Date>26/5/98</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>97</Questions>
+      <Date>14/5/93</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>203</Questions>
+      <Date>25/9/38</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>14</Questions>
+      <Date>28/2/40</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>32</Questions>
+      <Date>22/6/49</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>108</Questions>
+      <Date>7/9/21</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>41</Questions>
+      <Date>19/11/41</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>92</Questions>
+      <Date>6/3/76</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>210</Questions>
+      <Date>14/5/20</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>49</Questions>
+      <Date>18/11/93</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>97</Questions>
+      <Date>25/7/60</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>42</Questions>
+      <Date>20/10/60</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>213</Questions>
+      <Date>26/7/52</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>142</Questions>
+      <Date>26/5/53</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>47</Questions>
+      <Date>23/10/84</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Физика</Name>
+      <Questions>39</Questions>
+      <Date>19/7/19</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>87</Questions>
+      <Date>21/5/60</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>218</Questions>
+      <Date>19/7/69</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>67</Questions>
+      <Date>8/8/15</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>187</Questions>
+      <Date>24/9/15</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>86</Questions>
+      <Date>9/1/94</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>175</Questions>
+      <Date>11/4/26</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>155</Questions>
+      <Date>28/9/29</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>96</Questions>
+      <Date>11/6/52</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>154</Questions>
+      <Date>29/2/77</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>155</Questions>
+      <Date>17/1/95</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>219</Questions>
+      <Date>10/3/17</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>135</Questions>
+      <Date>24/2/67</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>71</Questions>
+      <Date>8/2/44</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>167</Questions>
+      <Date>11/5/62</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>156</Questions>
+      <Date>25/3/80</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>89</Questions>
+      <Date>25/5/24</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>49</Questions>
+      <Date>16/7/70</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>217</Questions>
+      <Date>9/4/93</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>43</Questions>
+      <Date>23/6/89</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>202</Questions>
+      <Date>19/9/7</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>8</Questions>
+      <Date>11/7/36</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>69</Questions>
+      <Date>14/7/83</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>177</Questions>
+      <Date>10/3/57</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>207</Questions>
+      <Date>16/7/78</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>17</Questions>
+      <Date>13/1/11</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>84</Questions>
+      <Date>29/11/51</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>199</Questions>
+      <Date>24/8/36</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>181</Questions>
+      <Date>12/11/80</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>100</Questions>
+      <Date>13/5/45</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>85</Questions>
+      <Date>9/7/6</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>125</Questions>
+      <Date>8/4/88</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>72</Questions>
+      <Date>17/9/46</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>194</Questions>
+      <Date>28/4/95</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>204</Questions>
+      <Date>27/1/10</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>79</Questions>
+      <Date>7/6/51</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>94</Questions>
+      <Date>24/11/46</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>121</Questions>
+      <Date>13/7/31</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>174</Questions>
+      <Date>29/2/7</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>197</Questions>
+      <Date>6/1/26</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>27</Questions>
+      <Date>22/6/43</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>101</Questions>
+      <Date>26/2/15</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>75</Questions>
+      <Date>17/1/87</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>98</Questions>
+      <Date>16/11/7</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>94</Questions>
+      <Date>19/9/35</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>103</Questions>
+      <Date>29/3/93</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>109</Questions>
+      <Date>12/10/62</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>138</Questions>
+      <Date>9/11/18</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>129</Questions>
+      <Date>13/2/77</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>169</Questions>
+      <Date>10/3/55</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>54</Questions>
+      <Date>21/6/35</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>185</Questions>
+      <Date>22/3/81</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>6</Questions>
+      <Date>15/11/84</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>133</Questions>
+      <Date>23/1/23</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>44</Questions>
+      <Date>28/10/62</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>94</Questions>
+      <Date>12/4/94</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>181</Questions>
+      <Date>21/8/5</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>66</Questions>
+      <Date>26/5/53</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>183</Questions>
+      <Date>12/1/41</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>120</Questions>
+      <Date>12/7/6</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>76</Questions>
+      <Date>29/6/22</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>128</Questions>
+      <Date>27/3/28</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>87</Questions>
+      <Date>12/11/26</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>122</Questions>
+      <Date>29/7/71</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>49</Questions>
+      <Date>14/11/74</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>12</Questions>
+      <Date>22/3/92</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>217</Questions>
+      <Date>22/3/83</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>69</Questions>
+      <Date>18/3/33</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>211</Questions>
+      <Date>27/1/34</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>63</Questions>
+      <Date>10/10/68</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>88</Questions>
+      <Date>13/6/48</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>32</Questions>
+      <Date>14/11/19</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>152</Questions>
+      <Date>26/6/34</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>155</Questions>
+      <Date>20/11/30</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>209</Questions>
+      <Date>13/3/31</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>126</Questions>
+      <Date>25/4/68</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>192</Questions>
+      <Date>21/3/20</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>31</Questions>
+      <Date>23/1/36</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>120</Questions>
+      <Date>7/7/74</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>142</Questions>
+      <Date>6/11/72</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>158</Questions>
+      <Date>29/8/39</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>104</Questions>
+      <Date>26/5/22</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>25</Questions>
+      <Date>28/4/82</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>44</Questions>
+      <Date>18/8/77</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>151</Questions>
+      <Date>18/2/2</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>215</Questions>
+      <Date>26/8/92</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>29</Questions>
+      <Date>12/7/71</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>127</Questions>
+      <Date>7/6/94</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Алгебра</Name>
+      <Questions>187</Questions>
+      <Date>27/9/37</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>29</Questions>
+      <Date>10/6/30</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>32</Questions>
+      <Date>25/4/24</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>197</Questions>
+      <Date>15/6/61</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>131</Questions>
+      <Date>21/9/4</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>219</Questions>
+      <Date>12/1/78</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>91</Questions>
+      <Date>16/8/48</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>111</Questions>
+      <Date>7/10/5</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>208</Questions>
+      <Date>14/11/25</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>70</Questions>
+      <Date>6/11/97</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>99</Questions>
+      <Date>7/7/24</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>68</Questions>
+      <Date>22/5/28</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>163</Questions>
+      <Date>22/3/34</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>102</Questions>
+      <Date>25/8/50</Date>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>218</Questions>
+      <Date>12/9/59</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>70</Questions>
+      <Date>12/7/4</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>75</Questions>
+      <Date>25/11/40</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>175</Questions>
+      <Date>5/3/57</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>120</Questions>
+      <Date>6/4/19</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>114</Questions>
+      <Date>26/4/5</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>120</Questions>
+      <Date>29/8/70</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>94</Questions>
+      <Date>29/5/19</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>116</Questions>
+      <Date>21/8/14</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>115</Questions>
+      <Date>18/10/55</Date>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>216</Questions>
+      <Date>11/2/5</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>История</Name>
+      <Questions>205</Questions>
+      <Date>10/2/53</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>98</Questions>
+      <Date>28/5/52</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>196</Questions>
+      <Date>9/2/48</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>15</Questions>
+      <Date>21/5/46</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>170</Questions>
+      <Date>17/1/91</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>213</Questions>
+      <Date>9/11/28</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Социология</Name>
+      <Questions>13</Questions>
+      <Date>16/2/93</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Черчение</Name>
+      <Questions>22</Questions>
+      <Date>14/11/11</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>92</Questions>
+      <Date>17/11/51</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>119</Questions>
+      <Date>16/7/87</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>27</Questions>
+      <Date>27/5/73</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>171</Questions>
+      <Date>5/7/12</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Информатика</Name>
+      <Questions>41</Questions>
+      <Date>15/9/40</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Геометрия</Name>
+      <Questions>215</Questions>
+      <Date>8/5/15</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Философия</Name>
+      <Questions>219</Questions>
+      <Date>8/8/79</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Русский язык</Name>
+      <Questions>93</Questions>
+      <Date>9/8/7</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>142</Questions>
+      <Date>18/4/23</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Философия</Name>
+      <Questions>95</Questions>
+      <Date>15/2/8</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>156</Questions>
+      <Date>14/4/64</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>География</Name>
+      <Questions>119</Questions>
+      <Date>26/8/94</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>175</Questions>
+      <Date>15/4/13</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>117</Questions>
+      <Date>7/7/38</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>159</Questions>
+      <Date>13/6/10</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>55</Questions>
+      <Date>5/4/33</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Информатика</Name>
+      <Questions>147</Questions>
+      <Date>21/8/52</Date>
+      <Teacher>Ч.М. Мухин</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>159</Questions>
+      <Date>24/5/67</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>68</Questions>
+      <Date>8/5/47</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>161</Questions>
+      <Date>19/4/34</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Геометрия</Name>
+      <Questions>154</Questions>
+      <Date>16/3/72</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>179</Questions>
+      <Date>5/2/83</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Русский язык</Name>
+      <Questions>47</Questions>
+      <Date>13/4/9</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Физика</Name>
+      <Questions>145</Questions>
+      <Date>28/4/31</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>История</Name>
+      <Questions>36</Questions>
+      <Date>21/3/60</Date>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>43</Questions>
+      <Date>17/11/91</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Алгебра</Name>
+      <Questions>72</Questions>
+      <Date>13/6/79</Date>
+      <Teacher>М.З. Чугайнова </Teacher>
+    </Challenge>
+    <Challenge>
+      <Name>Социология</Name>
+      <Questions>103</Questions>
+      <Date>23/6/84</Date>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>География</Name>
+      <Questions>87</Questions>
+      <Date>25/7/80</Date>
+      <Teacher>С.М. Григорьев</Teacher>
+    </Challenge>
+    <Challenge xsi:type="Test">
+      <Name>Черчение</Name>
+      <Questions>119</Questions>
+      <Date>19/6/75</Date>
+      <Teacher>А.С.Жуков</Teacher>
+    </Challenge>
+  </challenges>
+</ChallengeTest>

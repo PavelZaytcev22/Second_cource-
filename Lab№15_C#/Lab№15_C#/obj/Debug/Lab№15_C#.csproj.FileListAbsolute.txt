@@ -1,0 +1,11 @@
+C:\Users\pvl2z\source\repos\Lab№15_C#\Lab№15_C#\bin\Debug\Lab№15_C#.exe.config
+C:\Users\pvl2z\source\repos\Lab№15_C#\Lab№15_C#\bin\Debug\Lab№15_C#.exe
+C:\Users\pvl2z\source\repos\Lab№15_C#\Lab№15_C#\bin\Debug\Lab№15_C#.pdb
+C:\Users\pvl2z\source\repos\Lab№15_C#\Lab№15_C#\obj\Debug\Lab№15_C#.csproj.AssemblyReference.cache
+C:\Users\pvl2z\source\repos\Lab№15_C#\Lab№15_C#\obj\Debug\Lab_15_C_.Properties.Resources.resources
+C:\Users\pvl2z\source\repos\Lab№15_C#\Lab№15_C#\obj\Debug\Lab№15_C#.csproj.GenerateResource.cache
+C:\Users\pvl2z\source\repos\Lab№15_C#\Lab№15_C#\obj\Debug\Lab№15_C#.csproj.CoreCompileInputs.cache
+C:\Users\pvl2z\source\repos\Lab№15_C#\Lab№15_C#\obj\Debug\Lab№15_C#.exe
+C:\Users\pvl2z\source\repos\Lab№15_C#\Lab№15_C#\obj\Debug\Lab№15_C#.pdb
+C:\Users\pvl2z\source\repos\Lab№15_C#\Lab№15_C#\obj\Debug\Lab_15_C_.Form1.resources
+C:\Users\pvl2z\source\repos\Lab№15_C#\Lab№15_C#\obj\Debug\Lab_15_C_.Resource1.resources

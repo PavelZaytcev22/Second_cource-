@@ -1,0 +1,9 @@
+C:\Users\pvl2z\source\repos\Lab№11_С#\11LabLibrary\bin\Debug\11LabLibrary.dll
+C:\Users\pvl2z\source\repos\Lab№11_С#\11LabLibrary\bin\Debug\11LabLibrary.pdb
+C:\Users\pvl2z\source\repos\Lab№11_С#\11LabLibrary\bin\Debug\10LabLibrary.dll
+C:\Users\pvl2z\source\repos\Lab№11_С#\11LabLibrary\bin\Debug\10LabLibrary.pdb
+C:\Users\pvl2z\source\repos\Lab№11_С#\11LabLibrary\obj\Debug\11LabLibrary.csproj.AssemblyReference.cache
+C:\Users\pvl2z\source\repos\Lab№11_С#\11LabLibrary\obj\Debug\11LabLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pvl2z\source\repos\Lab№11_С#\11LabLibrary\obj\Debug\11LabLibrary.csproj.CopyComplete
+C:\Users\pvl2z\source\repos\Lab№11_С#\11LabLibrary\obj\Debug\11LabLibrary.dll
+C:\Users\pvl2z\source\repos\Lab№11_С#\11LabLibrary\obj\Debug\11LabLibrary.pdb

@@ -1,0 +1,11 @@
+C:\Users\pvl2z\source\repos\Lab13_C#\13LabLibrary\bin\Debug\13LabLibrary.dll
+C:\Users\pvl2z\source\repos\Lab13_C#\13LabLibrary\bin\Debug\13LabLibrary.pdb
+C:\Users\pvl2z\source\repos\Lab13_C#\13LabLibrary\bin\Debug\10LabLibrary.dll
+C:\Users\pvl2z\source\repos\Lab13_C#\13LabLibrary\bin\Debug\12LabLibrary.dll
+C:\Users\pvl2z\source\repos\Lab13_C#\13LabLibrary\bin\Debug\10LabLibrary.pdb
+C:\Users\pvl2z\source\repos\Lab13_C#\13LabLibrary\bin\Debug\12LabLibrary.pdb
+C:\Users\pvl2z\source\repos\Lab13_C#\13LabLibrary\obj\Debug\13LabLibrary.csproj.AssemblyReference.cache
+C:\Users\pvl2z\source\repos\Lab13_C#\13LabLibrary\obj\Debug\13LabLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pvl2z\source\repos\Lab13_C#\13LabLibrary\obj\Debug\13LabLibrary.dll
+C:\Users\pvl2z\source\repos\Lab13_C#\13LabLibrary\obj\Debug\13LabLibrary.pdb
+C:\Users\pvl2z\source\repos\Lab13_C#\13LabLibrary\obj\Debug\13LabLib.E2071EAF.Up2Date
