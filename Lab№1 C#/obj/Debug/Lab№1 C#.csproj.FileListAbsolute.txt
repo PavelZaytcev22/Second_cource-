@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\Lab№1 C#\bin\Debug\Lab№1 C#.exe.config
+C:\Users\Пользователь\source\repos\Lab№1 C#\bin\Debug\Lab№1 C#.exe
+C:\Users\Пользователь\source\repos\Lab№1 C#\bin\Debug\Lab№1 C#.pdb
+C:\Users\Пользователь\source\repos\Lab№1 C#\obj\Debug\Lab№1 C#.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Lab№1 C#\obj\Debug\Lab№1 C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Lab№1 C#\obj\Debug\Lab№1 C#.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Lab№1 C#\obj\Debug\Lab№1 C#.exe
+C:\Users\Пользователь\source\repos\Lab№1 C#\obj\Debug\Lab№1 C#.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1 C#\bin\Debug\Lab№1 C#.exe.config
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1 C#\bin\Debug\Lab№1 C#.exe
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1 C#\bin\Debug\Lab№1 C#.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1 C#\obj\Debug\Lab№1 C#.csproj.AssemblyReference.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1 C#\obj\Debug\Lab№1 C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1 C#\obj\Debug\Lab№1 C#.csproj.CoreCompileInputs.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1 C#\obj\Debug\Lab№1 C#.exe
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1 C#\obj\Debug\Lab№1 C#.pdb

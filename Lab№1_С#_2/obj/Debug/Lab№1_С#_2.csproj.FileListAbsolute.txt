@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\Lab№1_С#_2\bin\Debug\Lab№1_С#_2.exe.config
+C:\Users\Пользователь\source\repos\Lab№1_С#_2\bin\Debug\Lab№1_С#_2.exe
+C:\Users\Пользователь\source\repos\Lab№1_С#_2\bin\Debug\Lab№1_С#_2.pdb
+C:\Users\Пользователь\source\repos\Lab№1_С#_2\obj\Debug\Lab№1_С#_2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Lab№1_С#_2\obj\Debug\Lab№1_С#_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Lab№1_С#_2\obj\Debug\Lab№1_С#_2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Lab№1_С#_2\obj\Debug\Lab№1_С#_2.exe
+C:\Users\Пользователь\source\repos\Lab№1_С#_2\obj\Debug\Lab№1_С#_2.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1_С#_2\bin\Debug\Lab№1_С#_2.exe.config
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1_С#_2\bin\Debug\Lab№1_С#_2.exe
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1_С#_2\bin\Debug\Lab№1_С#_2.pdb
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1_С#_2\obj\Debug\Lab№1_С#_2.csproj.AssemblyReference.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1_С#_2\obj\Debug\Lab№1_С#_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1_С#_2\obj\Debug\Lab№1_С#_2.csproj.CoreCompileInputs.cache
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1_С#_2\obj\Debug\Lab№1_С#_2.exe
+C:\Users\pvl2z\Desktop\информатика 2 курс\Лабы ооп\Lab№1_С#_2\obj\Debug\Lab№1_С#_2.pdb

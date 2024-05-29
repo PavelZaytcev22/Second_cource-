@@ -1,0 +1,24 @@
+C:\Users\Пользователь\source\repos\Lab№5_C#\bin\Debug\Lab№5_C#.exe.config
+C:\Users\Пользователь\source\repos\Lab№5_C#\bin\Debug\Lab№5_C#.exe
+C:\Users\Пользователь\source\repos\Lab№5_C#\bin\Debug\Lab№5_C#.pdb
+C:\Users\Пользователь\source\repos\Lab№5_C#\obj\Debug\Lab№5_C#.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Lab№5_C#\obj\Debug\Lab№5_C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Lab№5_C#\obj\Debug\Lab№5_C#.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Lab№5_C#\obj\Debug\Lab№5_C#.exe
+C:\Users\Пользователь\source\repos\Lab№5_C#\obj\Debug\Lab№5_C#.pdb
+C:\Users\pvl2z\Desktop\Lab№5_C#\bin\Debug\Lab№5_C#.exe.config
+C:\Users\pvl2z\Desktop\Lab№5_C#\bin\Debug\Lab№5_C#.exe
+C:\Users\pvl2z\Desktop\Lab№5_C#\bin\Debug\Lab№5_C#.pdb
+C:\Users\pvl2z\Desktop\Lab№5_C#\obj\Debug\Lab№5_C#.csproj.AssemblyReference.cache
+C:\Users\pvl2z\Desktop\Lab№5_C#\obj\Debug\Lab№5_C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\pvl2z\Desktop\Lab№5_C#\obj\Debug\Lab№5_C#.csproj.CoreCompileInputs.cache
+C:\Users\pvl2z\Desktop\Lab№5_C#\obj\Debug\Lab№5_C#.exe
+C:\Users\pvl2z\Desktop\Lab№5_C#\obj\Debug\Lab№5_C#.pdb
+D:\информатика 2 курс\Лабы ооп\Lab№5_C#\bin\Debug\Lab№5_C#.exe.config
+D:\информатика 2 курс\Лабы ооп\Lab№5_C#\bin\Debug\Lab№5_C#.exe
+D:\информатика 2 курс\Лабы ооп\Lab№5_C#\bin\Debug\Lab№5_C#.pdb
+D:\информатика 2 курс\Лабы ооп\Lab№5_C#\obj\Debug\Lab№5_C#.csproj.AssemblyReference.cache
+D:\информатика 2 курс\Лабы ооп\Lab№5_C#\obj\Debug\Lab№5_C#.csproj.SuggestedBindingRedirects.cache
+D:\информатика 2 курс\Лабы ооп\Lab№5_C#\obj\Debug\Lab№5_C#.csproj.CoreCompileInputs.cache
+D:\информатика 2 курс\Лабы ооп\Lab№5_C#\obj\Debug\Lab№5_C#.exe
+D:\информатика 2 курс\Лабы ооп\Lab№5_C#\obj\Debug\Lab№5_C#.pdb

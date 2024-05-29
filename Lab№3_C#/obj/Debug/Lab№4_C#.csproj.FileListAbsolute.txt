@@ -1,0 +1,8 @@
+C:\Users\Пользователь\source\repos\Lab№4_C#\bin\Debug\Lab№4_C#.exe.config
+C:\Users\Пользователь\source\repos\Lab№4_C#\bin\Debug\Lab№4_C#.exe
+C:\Users\Пользователь\source\repos\Lab№4_C#\bin\Debug\Lab№4_C#.pdb
+C:\Users\Пользователь\source\repos\Lab№4_C#\obj\Debug\Lab№4_C#.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Lab№4_C#\obj\Debug\Lab№4_C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Lab№4_C#\obj\Debug\Lab№4_C#.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Lab№4_C#\obj\Debug\Lab№4_C#.exe
+C:\Users\Пользователь\source\repos\Lab№4_C#\obj\Debug\Lab№4_C#.pdb
